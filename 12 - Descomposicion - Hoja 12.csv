@@ -1,0 +1,65 @@
+Especie,Marisma,Herbivoria,Tiempo,MO
+S.alterni,Alta,Comido,Final,88.8545
+S.alterni,Alta,Comido,Final,90.6028
+S.alterni,Alta,Comido,Final,91.0757
+S.alterni,Baja,Comido,Final,94.5582
+S.alterni,Baja,Comido,Final,94.5758
+S.alterni,Baja,Comido,Final,94.8399
+S.alterni,Alta,No comido,Final,90.3583
+S.alterni,Alta,No comido,Final,87.4180
+S.alterni,Alta,No comido,Final,89.5064
+S.alterni,Baja,No comido,Final,94.9048
+S.alterni,Baja,No comido,Final,95.4359
+S.alterni,Baja,No comido,Final,94.8708
+S.densi,Alta,Comido,Final,95.5710
+S.densi,Alta,Comido,Final,93.4946
+S.densi,Alta,Comido,Final,94.3135
+S.densi,Baja,Comido,Final,95.8285
+S.densi,Baja,Comido,Final,96.0236
+S.densi,Baja,Comido,Final,96.0086
+S.densi,Alta,No comido,Final,95.5822
+S.densi,Alta,No comido,Final,95.2197
+S.densi,Alta,No comido,Final,95.2542
+S.densi,Baja,No comido,Final,96.1905
+S.densi,Baja,No comido,Final,95.6367
+S.densi,Baja,No comido,Final,96.7245
+S.alterni,Alta,Comido,inicial,80.1969
+S.alterni,Alta,Comido,inicial,83.0751
+S.alterni,Alta,Comido,inicial,80.8181
+S.alterni,Alta,Comido,inicial,80.3402
+S.alterni,Alta,Comido,inicial,79.3208
+S.alterni,Baja,Comido,inicial,80.1969
+S.alterni,Baja,Comido,inicial,83.0751
+S.alterni,Baja,Comido,inicial,80.8181
+S.alterni,Baja,Comido,inicial,80.3402
+S.alterni,Baja,Comido,inicial,79.3208
+S.alterni,Alta,No comido,inicial,80.1969
+S.alterni,Alta,No comido,inicial,83.0751
+S.alterni,Alta,No comido,inicial,80.8181
+S.alterni,Alta,No comido,inicial,80.3402
+S.alterni,Alta,No comido,inicial,79.3208
+S.alterni,Baja,No comido,inicial,80.1969
+S.alterni,Baja,No comido,inicial,83.0751
+S.alterni,Baja,No comido,inicial,80.8181
+S.alterni,Baja,No comido,inicial,80.3402
+S.alterni,Baja,No comido,inicial,79.3208
+S.densi,Alta,Comido,inicial,94.806
+S.densi,Alta,Comido,inicial,94.3681
+S.densi,Alta,Comido,inicial,94.0498
+S.densi,Alta,Comido,inicial,93.3863
+S.densi,Alta,Comido,inicial,93.1732
+S.densi,Baja,Comido,inicial,94.806
+S.densi,Baja,Comido,inicial,94.3681
+S.densi,Baja,Comido,inicial,94.0498
+S.densi,Baja,Comido,inicial,93.3863
+S.densi,Baja,Comido,inicial,93.1732
+S.densi,Alta,No comido,inicial,94.806
+S.densi,Alta,No comido,inicial,94.3681
+S.densi,Alta,No comido,inicial,94.0498
+S.densi,Alta,No comido,inicial,93.3863
+S.densi,Alta,No comido,inicial,93.1732
+S.densi,Baja,No comido,inicial,94.806
+S.densi,Baja,No comido,inicial,94.3681
+S.densi,Baja,No comido,inicial,94.0498
+S.densi,Baja,No comido,inicial,93.3863
+S.densi,Baja,No comido,inicial,93.1732
