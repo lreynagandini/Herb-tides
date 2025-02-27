@@ -1,6 +1,15 @@
 library(ggrepel)
 library(ggsci)
 library(ggtext)
+library(dplyr)
+library(emmeans)
+library(cowplot)
+library(DHARMa)
+library(ggplot2)
+library(glmmTMB)
+library(multcomp)
+library(performance)
+library(readxl)
 
 drywet<-read.csv("12 - Descomposicion - Hoja 5.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
 
